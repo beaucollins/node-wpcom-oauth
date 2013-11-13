@@ -1,0 +1,15 @@
+{
+  "name": "wpcom-oauth",
+  "version": "1.0.0",
+  "description": "Library for authorizing apps against WordPress.com Oauth",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Beau Collins <beaucollins@gmail.com>",
+  "license": "BSD-2-Clause",
+  "devDependencies" : {
+    "mocha" : "*",
+    "nock" : "*"
+  }
+}
