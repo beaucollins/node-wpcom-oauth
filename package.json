@@ -1,6 +1,6 @@
 {
   "name": "wpcom-oauth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for authorizing apps against WordPress.com Oauth",
   "main": "index.js",
   "scripts": {
